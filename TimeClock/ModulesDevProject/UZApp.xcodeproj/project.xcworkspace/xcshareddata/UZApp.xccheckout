@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>571B9379-FC1D-4207-B2B2-A7339DE50F7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UZApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A6913E29FF7FF69644F39010E7050199974599D</key>
+		<string>https://github.com/asa9866/Timer</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TimeClock/ModulesDevProject/UZApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A6913E29FF7FF69644F39010E7050199974599D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asa9866/Timer</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A6913E29FF7FF69644F39010E7050199974599D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A6913E29FF7FF69644F39010E7050199974599D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Timer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

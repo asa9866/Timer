@@ -1,0 +1,13 @@
+[
+ {
+    "name":"moduleDemo",
+    "class":"UZModuleDemo",
+    "methods":["showAlert"],
+    "launchClassMethod":"launch"
+ },{
+ "name":"timeClock",
+ "class":"TimeClock",
+ "methods":["beginClock","cancelClock"],
+ "launchClassMethod":"launch"
+ }
+]
