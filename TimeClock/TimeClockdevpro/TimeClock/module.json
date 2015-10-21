@@ -1,0 +1,6 @@
+{
+    "name":"timeClock",
+    "class":"TimeClock",
+    "methods":["beginClock","cancelClock","stop"],
+    "launchClassMethod":"launch"
+}
